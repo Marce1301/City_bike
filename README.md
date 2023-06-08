@@ -63,7 +63,6 @@ In one chart I added the distribution per ridable type (Classic, electric) and i
 * Station Analysis.
 ![image](https://github.com/Marce1301/City_bike/assets/119386031/84383338-93c0-4b29-8085-a9ff0a2b4998)
 Making a relation of the number of trips given the top 10 departure stations to the top 10 ten ended stations, we can see that the station with the major ride Id numbers is Broadway and W58 that is a central station to enter central park or walk into Broadway or take Columbus circle subway that also is a conection Subway station.
-
 * Start and end stations trip distribution analysis.
 ![image](https://github.com/Marce1301/City_bike/assets/119386031/419f724b-1120-41d3-a4c5-7fdfe970f38c)
 In this dashboard we can apreciate in total which are the stations with the major number of trips. 
@@ -74,7 +73,6 @@ by start station we can see that East 33 & 1st Ave is the top start station. And
 Here we can see the average time per trip in minutes. I made the dispersion per hour of the day and surprisely the result indicate that starting in the blocking hour of 3:00 - 4:00 am  is when the trips register the maximum duration. This could be because in other time slots the average is degraded by near 0:00 mins movements due to change of bicicle or change of mind when taking a bicicle . Also the 3:00 am slot could be the one with the higher average because at that hour is when people usualy returns home from social events. 
 
 Also I made a visualization to see Average trip duration by week day and where we can see that sunday is the day that has trips with higher average trips.
-
 
 # Conclusion
 
